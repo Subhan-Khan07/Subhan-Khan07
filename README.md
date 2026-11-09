@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Subhan Ahmed Khan (Data Scientist and AI/ML Engineer)
+# 👋 Hi, I'm Subhan Ahmed Khan 
 
 ### 🚀 Data Science | Machine Learning | Generative AI | Agentic AI
 
